@@ -1,2 +1,2 @@
 # pequena-loja-virtual
-projeto full stack
+## projeto full stack
